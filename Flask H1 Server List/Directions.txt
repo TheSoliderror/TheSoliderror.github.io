@@ -1,0 +1,8 @@
+Run the Install Flask.bat
+
+open the Serverlist folder, run the runner.bat to run the website
+
+website ip is http://127.0.0.1:5000 by default
+
+html file is under Serverlist/templates
+
