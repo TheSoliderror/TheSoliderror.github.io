@@ -72,7 +72,7 @@ background-size:37%;
 
 .DarkGoldenRod
 {
-color:#B8860B	
+color:#D2AE6D
 	
 }
 
@@ -80,6 +80,12 @@ color:#B8860B
 .DarkMagenta
 {
 color:#8B008B	
+	
+}
+
+.MyGold
+{
+color:#D2AE6D
 	
 }
 
@@ -105,7 +111,7 @@ clear:both;
 {
 width:880px;
 height:auto;
-background-color:#8B008B;
+background-color:#D2AE6D;
 padding-left:10px;
 padding-right:10px;
 padding-bottom:5px;
